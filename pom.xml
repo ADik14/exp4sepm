@@ -53,7 +53,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.example.Main</mainClass> <!-- Adjust your main class -->
+                            <mainClass>com.example.marketanalysis.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
